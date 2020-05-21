@@ -1,0 +1,10 @@
+Chicago, IL, 41, 53, 87, 38
+Dallas, TX, 32, 51, 96, 51
+Detroit, MI, 42, 25, 83, 1
+Houston, TX, 29, 59, 95, 22
+LosAngeles, CA, 33, 56, 118, 24
+NewYorkCity, NY, 40, 47, 73, 58
+Philadelphia, PA, 39, 53, 75, 15
+Phoenix, AZ, 33, 26, 112, 1
+SanAntonio, TX, 29, 32, 98, 28
+SanDiego, CA, 32, 44, 117, 10
